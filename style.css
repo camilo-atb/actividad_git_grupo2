@@ -12,6 +12,6 @@ body{
 }
 
 .nombres{
-    border: 1px solid black;
+    border: 1px solid rgb(0, 0, 0);
     padding: 40px;
 }
