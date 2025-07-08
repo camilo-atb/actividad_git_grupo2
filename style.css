@@ -7,8 +7,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    border: 3px solid black;
-    background-color: aliceblue;
+    border: 2px solid black;
+    background-color: rgb(43, 101, 153);
 }
 
 .nombres{
