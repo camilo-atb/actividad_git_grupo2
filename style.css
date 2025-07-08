@@ -15,3 +15,8 @@ body{
     border: 1px solid rgb(158, 54, 54);
     padding: 40px;
 }
+
+.nombres:hover{
+    color: beige;
+    cursor: pointer;
+}
